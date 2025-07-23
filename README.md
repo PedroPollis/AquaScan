@@ -45,7 +45,7 @@ The following technologies were employed in the development of this project:
 
 ### 📸 Website Screenshot
 
-`![AquaScan Website Screenshot](image.png)`
+![AquaScan Website Screenshot](image.png)
 
 ---
 
