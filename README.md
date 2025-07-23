@@ -1,6 +1,6 @@
 # 💧 AquaScan - Smart Water Monitoring Solutions
 
-Welcome to the **AquaScan** project repository, an institutional website for a fictional company focused on innovative solutions for water quality and level monitoring. This project was developed as part of the requirements for the [**Course Name, e.g., Analysis and Systems Development**] at [**Your University Name, e.g., UNINOVE**].
+Welcome to the **AquaScan** project repository, an institutional website for a fictional company focused on innovative solutions for water quality and level monitoring. This project was developed as part of the requirements for the [**Analysis and Systems Development**] at [**UNINOVE**].
 
 ---
 
@@ -27,7 +27,6 @@ The website serves as a portal to introduce the company, detail the product, its
 * **How It Works:** Explanation of the sensor and data platform's operation.
 * **Contact:** Contact form for inquiries, quotes, and support.
 * **Responsive Design:** The website is optimized for viewing on various devices (desktops, tablets, and smartphones).
-* **[Add other specific website functionalities, e.g., image gallery, FAQ, blog, etc.]**
 
 ---
 
@@ -38,7 +37,6 @@ The following technologies were employed in the development of this project:
 * **HTML5:** For the semantic structuring of page content.
 * **CSS3:** For styling, layout, and responsiveness of the website.
 * **JavaScript:** For interactivity, form validation, and visual effects.
-* **[Add other technologies, e.g., CSS Framework (Bootstrap, Tailwind CSS), CSS Preprocessor (Sass), JS Library (jQuery, React, Vue), Build Tools (Webpack), etc.]**
 * **Git & GitHub:** For version control and team collaboration.
 
 ---
@@ -56,12 +54,6 @@ You can explore the AquaScan website in production, hosted via GitHub Pages, at 
 
 ---
 
-### 📝 License
+### 📝 Remember 
 
-This project is open-source and licensed under the [**License Name, e.g., MIT License**]. Feel free to use and modify it for study or learning purposes.
-
----
-
-### 🙏 Acknowledgments
-
-We would like to thank Professor [**Hebert Bratefixe**] for their guidance and support during the development of this project.
+This project is open-source. Feel free to use and modify it for study or learning purposes.
